@@ -212,7 +212,7 @@ border-radius: 9%;
 }
 
 .contenedor-texto img{
-    max-width: 100%;
+    max-width: 70%;
     margin-bottom: 2rem;
     border-top-right-radius: 4%;
     border-color: var(--primary-color);
@@ -235,32 +235,6 @@ border-radius: 9%;
     margin-right: 0.5rem;
     margin-left: 0.5rem;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
